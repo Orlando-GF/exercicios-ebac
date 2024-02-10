@@ -1,2 +1,2 @@
-# projetos-ebac
-Projetos do curso FullStack Java Ebac.
+# exercicios-ebac
+Exercicioss do curso FullStack Java Ebac.
