@@ -1,0 +1,18 @@
+Fazendo um café!
+
+    1- Pegar a panela
+    2- colocar agua na panela
+    3- Colocar a panela no fogão
+    4- Acender o fogo
+        1- Se tem gás
+            Acender o fogo - pular para o passo 5
+        2- se não tiver gás
+            Impossível acender - parar o programa
+    5- Colocar açúcar na agua
+    6- Esperar que chega até a temperatura
+        1- Se temperatura for >= 100 graus
+            passo 7
+    7- Desligar o fogo
+    8- Acrescentar o pó de café
+    9- Coar o café
+    10 Café pronto - fim do programa.
